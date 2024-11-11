@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS/sccs"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "rendu sass"
+    }
+}
